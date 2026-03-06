@@ -4,6 +4,9 @@ const baseConfig = '/hello-claw/'
 
 export default defineConfig({
   base: baseConfig,
+  ignoreDeadLinks: [
+    /^http:\/\/localhost/,
+  ],
   markdown: {
     math: true
   },
