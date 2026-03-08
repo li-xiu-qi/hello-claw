@@ -46,6 +46,8 @@
 
 ### 2.1 查看日志
 
+<!-- TODO: 补充 openclaw logs 终端输出截图（实时日志流示例） -->
+
 ```bash
 # 查看实时日志（持续输出）
 openclaw logs --follow
