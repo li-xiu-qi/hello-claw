@@ -78,6 +78,7 @@ export default defineConfig({
                     { text: '第4章 命令行与基础配置', link: '/cn/adopt/chapter4' },
                     { text: '第5章 定时任务', link: '/cn/adopt/chapter5' },
                     { text: '第6章 技能系统入门', link: '/cn/adopt/chapter6' },
+                    { text: '🎓 龙虾大学', link: '/cn/adopt/lobster-university' },
                   ]
                 },
                 {
@@ -140,6 +141,7 @@ export default defineConfig({
                     { text: '第4章 命令行与基础配置', link: '/cn/adopt/chapter4' },
                     { text: '第5章 定时任务', link: '/cn/adopt/chapter5' },
                     { text: '第6章 技能系统入门', link: '/cn/adopt/chapter6' },
+                    { text: '🎓 龙虾大学', link: '/cn/adopt/lobster-university' },
                   ]
                 },
                 {
